@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm SHREE RAM R</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shree-ram-r&label=Profile%20views&color=0e75b6&style=flat" alt="shree-ram-r" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shree-ram-r" alt="shree-ram-r" /></a> </p>
 
-- 🔭 I’m currently working on [FOOD HUb](https://github.com/Shree-Ram-R/Food-Hub)
+- 🔭 I’m currently working on [You Tube Clone](https://github.com/Shree-Ram-R/Food-Hub)
 
 - 🌱 I’m currently learning **Data Structure And Algorithm**
 
@@ -14,6 +12,8 @@
 - 💬 Ask me about **react**
 
 - 📫 How to reach me **shreeram292004@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/1ENS1fq-G8L1wOvwehDqp_1reuUWaCh7T/view?usp=sharing](https://drive.google.com/file/d/1ENS1fq-G8L1wOvwehDqp_1reuUWaCh7T/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
